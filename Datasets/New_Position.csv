@@ -1,0 +1,21 @@
+Position,Level,Years,Languages,Salary
+Business Analyst,1,1,2,45000
+Junior Consultant,2,1,1,50000
+Senior Consultant,3,1,2,60000
+Manager,4,1,1,80000
+Country Manager,5,1,4,110000
+Region Manager,6,1,2,150000
+Partner,7,1,1,200000
+Senior Partner,8,1,1,300000
+C-level,9,1,1,500000
+CEO,10,1,2,1000000
+Business Analyst,1,2,3,60000
+Junior Consultant,2,5,4,65000
+Senior Consultant,3,3,2,70000
+Manager,4,6,2,90000
+Country Manager,5,4,3,150000
+Region Manager,6,2,1,180000
+Partner,7,3,3,340000
+Senior Partner,8,2,4,450000
+C-level,9,3,1,600000
+CEO,10,4,3,1500000
